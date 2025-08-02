@@ -1,130 +1,64 @@
-# 💻 Rafael
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-**`Desenvolvedor Backend`**
+###
 
-Me chamo Rafael, tenho 18 anos e moro em Curitiba. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCPR. Tenho paixão por tecnologia, principalmente pelas áreas de desenvolvimento backend, automação e sistemas corporativos. Também gosto de compartilhar meu conhecimento e ideias por meio de projetos autorais e acadêmicos. Estou buscando me especializar no Backend com todo o ecosistema .NET, utilizando de suas ferramentas para desenvolvimento web, tanto backend como frontend.
-<p align="left">
-  <img 
-    alt="Email"
-    title="Entre em contato!"
-    src="https://custom-icon-badges.demolab.com/badge/-rafaelmen.ros@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-  />
-  <img 
-    alt="Telefone"
-    title="Entre em contato!"
-    src="https://custom-icon-badges.demolab.com/badge/-(41)--98530--6266-orange?style=for-the-badge&logo=phone&logoColor=white"
-  />
-  <a href="https://github.com/rafael-mendes-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafael-mendes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-mendesdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=rafaelmen.ros@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h1 align="center">Olá, bem vindo!👋</h1>
 
-<img
-  align="left"
-  alt="Csharp"
-  title="Csharp"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+###
 
-<img 
-  align="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-<img
-  align="left"
-  alt="SQL Server"
-  title="SQL Server"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+###
 
-<img
-  align="left"
-  alt="PostgreSql"
-  title="PostgreSql"
-  width="30px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />  
+<p align="left">Me chamo Rafael Mendes 😄<br><br>- 🔭 Busco experiência como desenvolvedor<br>- 📚 Atualmente estou aprendendo sobre o ecossistema .NET<br>- ⚡No tempo livre busco me especializar cada vez mais!</p>
 
-<img 
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+###
 
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
-<img 
-  align="left"
-  alt="Blazor"
-  title="Blazor"
-  width="30px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+###
 
-<img 
-  align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
-  width="30px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+###
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<h3 align="left">🔥   Meus status :</h3>
 
-<img 
-  align="left" 
-  alt="Postman" 
-  title="Postman"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
+###
 
-<img 
-  align="left"
-  alt="Swagger"
-  title="Swagger"
-  width="30px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafael-mendes-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<br/>
-<br/>
+###

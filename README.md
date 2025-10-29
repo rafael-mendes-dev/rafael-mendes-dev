@@ -21,7 +21,16 @@
 
 ###
 
-<p align="left">Me chamo Rafael Mendes 😄<br><br>- 🔭 Busco experiência como desenvolvedor<br>- 📚 Atualmente estou aprendendo sobre o ecossistema .NET<br>- ⚡No tempo livre busco me especializar cada vez mais!</p>
+<p align="left">
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> 😄<br><br>
+- 💻 Full-Stack Developer & Suporte Técnico<br>
+- 🔧 Criando soluções práticas e automatizadas<br>
+- 🛠️ C#, .NET, React.js, TypeScript<br>
+- ⚙️ Microsserviços, Clean Architecture, Mensageria, Kubernetes, Integração com LLMs<br>
+- 🔭 Buscando experiência como desenvolvedor<br>
+- 📚 Aprimorando constantemente meus conhecimentos em .NET<br>
+- ⚡ Sempre em busca de especialização no tempo livre
+</p>
 
 ###
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rafael%20Mendes%20Rosa%20Siqueira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20.NET%20%7C%20Microsservicos%20%7C%20IA%20Generativa&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rafael%20Mendes%20Rosa%20Siqueira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20.NET%20%7C%20Microsserviços%20%7C%20IA%20Generativa&descSize=18&descAlignY=58" />
 
 <a href="https://github.com/rafael-mendes-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+.NET+%26+React;Microsservicos+%26+Sistemas+Distribuidos;Automacao+com+IA+Generativa+%F0%9F%A4%96;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 ```typescript
 const rafael = {
   localizacao: "Curitiba - PR, Brasil 🇧🇷",
-  cargo: "Desenvolvedor Full-Stack Júnior @ High Scale",
+  cargo: "Desenvolvedor Full-Stack Júnior",
   formacao: "Análise e Desenvolvimento de Sistemas - PUCPR",
   foco: ["APIs escaláveis", "Microsserviços", "Sistemas distribuídos", "IA Generativa"],
   stack: [".NET", "C#", "React", "TypeScript", "Kubernetes", "Docker"],
@@ -53,14 +53,14 @@ const rafael = {
 <img src="https://skillicons.dev/icons?i=cs,ts,js,java,python" />
 
 ### Back-end & Frameworks
-<img src="https://skillicons.dev/icons?i=dotnet,blazor,nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
 
 ### Front-end
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
 ### Bancos de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,git,github" />
@@ -85,10 +85,6 @@ const rafael = {
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-mendes-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafael-mendes-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
